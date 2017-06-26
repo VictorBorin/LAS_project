@@ -6,6 +6,11 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "integer", "index": 1, "name": "Step_I" }
+		{ "type": "integer", "index": 2, "name": "Step_II" }
+		{ "type": "integer", "index": 3, "name": "Step_III_m" }
+		{ "type": "integer", "index": 4, "name": "Step_III_p" }
+		{ "type": "integer", "index": 5, "name": "Step_IV" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 5 }
